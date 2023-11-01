@@ -1,0 +1,2 @@
+# factoriales
+Calcular número factoriales
